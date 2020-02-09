@@ -7,6 +7,6 @@
 + Browser: Firefox
 
 # How can i use this bot on my account?
-+ Program.cs > You must edit 81. 87. row > run
++ Program.cs > You must edit 81. 87. row > bin > debug > run selBot.exe 
 
 
