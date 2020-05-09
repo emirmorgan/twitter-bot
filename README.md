@@ -3,7 +3,7 @@
 # About
 + Bot will share wallpaper every 30 minute. (You can edit code if you want less time.)
 + Wallpaper source: www.unsplash.com
-+ Bot twitter account: www.twitter.com/09picture
++ Bot twitter account: www.twitter.com/09picture (Bot is closed, past pictures still exist)
 + Requried NuGet: Selenium
 + Browser: Firefox
 
